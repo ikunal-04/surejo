@@ -69,7 +69,7 @@ export default function Main() {
             </div>
 
             <p className="mt-8 text-sm text-neutral-400 text-center">
-                Have some questions or just want to know more about the platform while it's in building and testing mode? Contact: <a href="mailto:kgargg07@gmail.com" className="text-blue-400 hover:underline">kgargg07@gmail.com</a>
+                Have some questions or just want to know more about the platform while it's in building and testing mode? Contact: <a href="mailto:info.elhire@gmail.com" className="text-blue-400 hover:underline">info.elhire@gmail.com</a>
             </p>
         </div>
     )
